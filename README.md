@@ -85,4 +85,40 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 6 – Java Methods Practice
+**(Date: 22-Dec-2025)**
 
+- Practiced user-defined methods: creation, multiple reuse, and dynamic parameters
+- Explored recursive methods, static methods, and `java.lang.Math` library 
+- Used methods repeatedly to enhance modularity and code clarity
+- Applied best practices: proper naming for variables/methods/classes, structured programs  
+
+🔗 **Code Link:**  
+👉 [Day 6 – Java Methods Practice](https://github.com/Dishagujar26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
+
+### 📅 Day 7 – Java Strings Practice
+**(Date: 23-Dec-2025)**
+
+- Practiced Java strings: creation, escape sequences, and input handling  
+- Explored string arrays, passing strings as method parameters, and built-in String class methods  
+- Learned ASCII codes and exception handling: checked, unchecked, and `RuntimeException`  
+- Applied best practices: proper naming for variables/methods/classes, modular methods, meaningful program structure  
+
+🔗 **Code Link:**  
+👉 [Day 7 – Java Strings Practice](https://github.com/Dishagujar26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
+---
+
+### 📅 Day 8 – Extras: String Handling, Built-in Functions & Date/Time
+**(Date: 24-Dec-2025)**
+
+- Practiced string handling: common string functions, parameter passing, and return values  
+- Explored common built-in functions: `Random`, `Math`  
+- Managed date and time using Java built-in functions (`java.time` API, Java 8+) for scheduling and display  
+
+🔗 **Code Link:**  
+👉 [Day 8 – Extras Practice](https://github.com/Dishagujar26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+---
