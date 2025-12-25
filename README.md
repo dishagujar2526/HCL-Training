@@ -122,3 +122,5 @@ BridgeLabz-Training/
 👉 [Day 8 – Extras Practice](https://github.com/Dishagujar26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
 ---
+
+## Week 2: Object Oriented Programming
