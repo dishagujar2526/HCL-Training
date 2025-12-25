@@ -59,3 +59,15 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 4 – Java Control Flows Practice
+**(Date: 19-Dec-2025)**
+
+- Practiced Java control flows including `if-else`, `switch`, `for` and `while` loops.
+- Worked with boolean data types, logical operators, and boolean expressions.
+- Implemented `break` and `continue` statements in loops.
+- Followed best programming practices: proper variable usage, naming conventions, indentation, comments, and meaningful class/program names.
+
+🔗 **Code Link:**  
+👉 [Day 4 – Java Control Flows Practice](https://github.com/Dishagujar26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+---
